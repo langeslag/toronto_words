@@ -12,13 +12,13 @@ I use it mostly as a resource by which to demonstrate basic NLP routines in the 
 
 In order to facilitate processing as plaintext, the only markdown convention here implemented that deviates from strict plaintext formatting is the double space at line-end to mark a hard return in exam headings and in verse passages.
 
-I have corrected a range of typographical errors, and introduced consistency of tokenization in such sequences as _se ipsum_ and _nonnulla_. For the full list of changes, see `changes.txt`.
+I have corrected a range of typographical errors, and introduced consistency of tokenization in such sequences as _se ipsum_ and _nonnulla_. For the full list of changes, see [`changes.txt`](https://github.com/langeslag/toronto_words/blob/main/changes.txt).
 
 A notable change from the exam's original character formatting is the restriction of capital initials in the exam passages proper to personal names and sentence-initial words; this change was implemented during OCR proofreading in order to facilitate named entity recognition. Place-names were lowercased on the understanding that the interpretation of place-names requires more translation than that of personal names, so that for the purpose of assessing exam difficulty only personal names should be discounted.
 
 ## Further Development
 
-This project was held up in lemmatization optimization for a considerable time. I had/have plans to add a lexicon and a notebook on lexical analysis once I'm happy with the lemmata. However, illness and then the apparent demise of the Latin WordNet lemmatizer halted development. I have decided to include in this release the lemmata as I was able to obtain them before these complications arose; these have not been proofread and will contain errors.
+This project was held up in lemmatization optimization for a considerable time. I had/have plans to add a lexicon and a notebook on lexical analysis once I'm happy with the lemmata. However, illness and then the apparent demise of the Latin WordNet lemmatizer halted development for the time being. I have decided to include in this release the lemmata as I was able to obtain them before these complications arose; these have not been proofread and will contain errors. If more favourable conditions should arise in future, I may well continue development of the lemmatization routine and the lexical evaluation of these exams.
 
 ## Permissions
 
