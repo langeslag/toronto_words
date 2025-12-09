@@ -1,0 +1,31 @@
+CENTRE FOR MEDIEVAL STUDIES  
+UNIVERSITY OF TORONTO
+
+M.A. Level Medieval Latin Examination  
+16 April 2007
+
+Translate ALL FOUR passages. The examination has been set for two hours, but you may take an extra hour if you wish. Each question will be given equal weight in the final assessment. The use of dictionaries is NOT permitted. Please write on alternate lines, on one side of the paper only. DO NOT USE PENCIL.
+
+1. Salimbenc: Why the Luccans, the Pisans, the Florentines and the Genovese hate each other's guts
+
+De odio quod est inter pisanos et lucenses et florentinos et ianuenses, et quibus causis.
+
+Inter lucenses et pisanos odium est et discordia et malivolentia, quia non solum ille due civitates contermine sunt, verum etiam quia pisani ceperunt decem castra lucensis episcopi et longo tempore possederunt ea; pro quibus etiam excommunicati fuerunt, et steterunt sic indurati usque ad multa tempora. Erant autem in montibus castra illa. Porro inter florentinos et pisanos idcirco odium habebatur, quia, quando florentini pisas veniebant pro mercimoniis emendis, nimis in accipiendo passagium a pisanis in portarum exitibus gravabantur.
+
+Audientes ergo florentini et lucenses, qui magno vinculo amicitie federati sunt simul, omne malum quod a ianuensibus pisanis erat illatum, et cognoscentes quod tempus eos iuvat, ordinaverunt exercitum contra pisanos millesimo ducentesimo octogesimo quarto in mense decembri, parum ante nativitatem Christi, cum quibus venire debebant pratenses, id est illi de prato, et cornetani, id est illi de corneto, ut residuos pisanos involverent et funditus, si possent, destruerent atque de terra delerent.
+
+2. Ramon Llull on one means or another of persuading Saracens and converting everybody
+
+Raimundus, iacens in lecto suo, uolens se condormire, considerauit super aliquibus, quae facta sunt in concilio generali vianae, et potissime supra duas petitiones, quas summo pontifici ipse dedit et suo collegio.
+
+Videlicet quod studia fierent, in quibus linguae infidelium in perpetuum docerentur hominibus deuotis, in philosophia et theologia fundatis, habentibus deuotionem mori seu mortem pati pro Christo ad exaltationem fidei sacrosanctae, eundo euangelium praedicatum per mundum universum, ostendendo ipsius fidei ueritatem tali modo, quod illa ueritas erit intelligibilis atque certa, et suum oppositum erit falsum.
+
+Secunda petitio est, quod bona templariorum, hospitalariis sancti Iohannis concederentur, ut fortitudo multiplicetur ad tenendum certos milites et galeas in perpetuum contra saracenos. Et quia istae duae petitiones sunt concessae, Raimundus quamplurimum est gauisus, ex eo quia cum praedicta ordinatione saraceni faciliter capi poterunt et deuinci; et ipsis deuictis, conuertetur facilius totus mundus, nam ipsi sunt, qui impediunt uniuersum.
+
+3. Remigius of Auxerre on Genesis 1:29–30
+
+Dixitque deus: "Ecce dedi uobis omnem herbam afferentem semen super terram et cetera usque et factum est ita." Cum omnes herbae et arbores hominibus in cibum deputantur, patet quod ante praeuaricationem hominis nihil noxium, nil sterile uel uenenosum terra protulerat, nulla auis raptu uiuebat, nulla bestia infirmiorum animalium captui insistebat, sed omnia aequaliter herbis fructibusque arborum salubriter uescebantur. Rursus quaeritur quomodo homo et prae ceteris animantibus creatus fuerit immortalis, et tamen cum ceteris communem uiuendi alimoniam perceperit, cum credamus immortales homines post resurrectionem nequaquam terreno uictu indigere? Sed sciendum est quia alia est immortalitas illa quam in Adam accepimus, si non peccaremus, alia quam per Christum in resurrectione generali cum electis omnibus nos percepturos esse speramus. Ille enim ita immortalis fuisse creditur, ut si non peccasset numquam moreretur, ita tamen ut ipsa eius caro terrenorum ciborum adminiculis sustentata numquam uel senio deficeret uel morte interiret. . . .
+
+4. How to count from one to ten, from ten to one hundred, from one hundred to one thousand, and so on: Robert of Chester's translation of Al-Khowarizmi's Algebra
+
+Liber algebrae et almucabola, de quaestionibus arithmeticis et geometricis. In nomine dei pii et misericordis. Incipit liber restaurationis et oppositionis numeri quem edidit Mahomet, filius Mosi Algaurizin. Dixit Mahomet: "Laus deo creatori, qui homini contulit scientiam inueniendi vim numerorum. Considerans enim omne id quo indigent homines ex numeris componi, inueni illud totum esse numerum, et inueni nihil aliud esse numerum, nisi quod ex vnitatibus componitur. Vnitas ergo in omni numero reperitur. Inueni autem omnem numerum ita dispositum, vt omnis numerus vnitatem excedit vsque ad decem, denarius quoque numerus ad modum vnitatis disponitur, vnde et duplicatur et triplicatur, quemadmodum factum cum vnitate. Fiuntque ex eius duplicatione, xx: et triplicatione, xxx. Et sic multiplicando denarium numerum, ad centenarium peruenitur. Ita centenarius numerus duplicatur et triplicatur, sicut denarius numerus. Et sic centenarium numerum duplicando et triplicando et cetera. millenarius excrescit numerus. Ad hunc modum numerum millenarium secundum ordinem numerorum multiplicando, vsque ad infinitam numeri inuestigationem peruenitur."

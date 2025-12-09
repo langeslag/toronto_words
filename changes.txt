@@ -1,0 +1,115 @@
+l1_1990-04 text 2: split up meipsum and teipsum
+l1_1990-04 text 4: corrected sit to sint
+l1_1990-09 text 2: corrected aeterum to aeternum
+l1_1990-09 text 2: corrected illus to illis
+l1_1992-09 text 1: changed wltus to uultus
+l1_1992-09 text 2: corrected ingresssus to ingressus
+l1_1993-04 text 2: I have moved quotation marks around to where I thought they should go.
+l1_1994-04 texts 3, 4: Had one footnote with a translation aid each (removed in cleanup)
+l1_1995-04.txt text 4: removed a parenthetical biblical reference
+l1_1996-04 text 2: I don't know whether the typo ("adductam" for "adducto") was corrected in the exam booklets that were used on the day, but my text is corrected.
+l1_1996-09 text 3: corrected uanimiter to unanimiter
+l1_1996-09 text 4: has a calendrical abbreviation (V. kal. febr.); I've retained it
+l1_1997_09 text 1: "quatuuor" surely a typo? Now corrected!
+l1_1997_09 text 3: should "non nulla" be "nonnulla"? Not currently corrected!
+l1_1998_09 text 3: "laetitae" an uncaught error for "laetitiae"; I have corrected it for the new corpus
+l1_1998-09 text 3: split up plusquam
+l1_1999-04 text 3: split up "teipsum"
+l1_2000-04 text 3: turned 9 into ix
+l1_2000-09 text 4: split up memetipsum
+l1_2000-09 text 4: changed "proculdubio" into "procul dubio"
+l1_2001-04 text 3: corrected "ie" to "ei"
+l1_2001-04 text 4: changed "supradiximus" into "supra diximus"
+l1_2001-09 text 1: changed 5 into v, 25 into xxv
+l1_2001-09 text 1: corrected "nanque" to "namque"
+l1_2001-09 text 1: corrected "posit" to "possit"
+l1_2002-04 text 1: changed "reliquid" into "reliquit"; not sure whether that was a typo or MS form
+l1_2002-09 text 1: I added in a closing parenthesis that I thought was missing, in what seemed like a logical place. But also I gave up on the alternating quotes so it'll be easier to filter them out while leaving apostrophes in.
+l1_2002-09 text 2: turned "2 cap." into ii capitulo; and 5 Sap., cap. 18, 21 into v sapientia, capitulo xviii, xxi
+l1_2002-09 text 4: image had æ and œ, OCR normalized these to ae and oe and I kept the normalized form
+l1_2003-09.txt text 4: replaced "reipublicae" with "rei publicae"
+l1_2003-09.txt text 4: deleted a surplus quotation mark at the end
+l1_2004-09 text 4: replaced "idest" with "id est"
+l1_2004-04 text 1: split up "semetipsum"
+l1_2004-04 text 3: replaced "idest" with ", id est"
+l1_2005-04.txt text 4: replaced "rempublicam" with "rem publicam"
+l1_2005-09.txt text 1: corrected sepententrio to septentrio
+l1_2005-09.txt text 1: split up semetipsa
+l1_2006-04 .txt text 2: standardized three ordinal abbreviations to use "°" instead of "to" and the like
+l1_2006-09.txt text 3: split up semetipsum
+l1_2010-09.txt text 4: replaced "reipublicae" with "rei publicae"
+l1_2014-09.txt text 4: corrected "experienta" to "experientia"
+l1_2015-09 text 3: replaced "idest" by "id est"
+l1_2006-04 text 2: there are abbreviations here still, probably resolve them
+l1_2007-04 text 4: changed two numbers from arabic to roman
+l1_2008-04 text 3: corrected "impossible" into "impossibile"
+l1_2008-04 text 3: split up 1x "seipsam" and 1x "seipsa"
+l1_2009-04 text 2: replaced i.e. with id est 2x
+l1_2009-09 text 1: corrected "Franiciam" to "Franciam"
+l1_2010-09 text 2: split up "semetipsum"
+l1_2010-09 text 2: split up "nosmet ipsos" (2x)
+l1_2010-09 text 2: expanded "Lev." to "leviticus"
+l1_2011-09 text 3: not sure whether Papia should be a named entity
+l1_2013-09 text 3: not sure whether to treat "occurens" as an error for "occurrens", but it makes particularly good sense if emended so I'll emend
+l1_2014-04 text 3: split up plusquam 2x
+l1_2014-09 text 1: corrected "Epiptius" to "egiptius"
+l1_2015-04 text 1: changed "decetero" into "de cetero"
+l1_2015-04 text 2: corrected "dofodiunt" to "defodiunt"
+l1_2016-09 text 2: corrected "bestiss" into "bestiis"
+l1_2016-09 text 3: replaced all ampersands with "et", 9 with ix
+l1_2017-04 text 3: expanded "S." to "sancti"
+l1_2017-04 text 4: corrected "profectioris" to "provectioris"
+l1_2018-04 text 3: removed repeats of refrain.
+l1_2018-09 text 4: split up teipsum
+l1_2019-04 text 2 is another example worth singling out for its large proportion of names
+l1_2020-04 text 1: corrected "Hiersualem" into "Hierusalem"
+l1_2020-09 text 3: tried to bring consistency into comma usage
+l1_2021-04 text 1: corrected fecisistis to fecistis
+l1_2021-09 text 4: the NER process will not recognize these names, as they occur in (line-)initial position.
+l1_2022-04 text 2: There's a Greek phrase here, with a footnote giving the English translation. I've left out the footnote and placed the phrase in quotation marks.
+l2_1977-09 text 1: combined Mortuo Mari into Mortuomari
+l2_1977-09 text 3: split up seipsum
+l2_1982-04 text 1: Hiernonymus > Hieronymus
+l2_1982-04 text 2: corrected presemptuosius to presumptuosius (on the basis of a 16th-c. printing that reads pręsumptiosius)
+l2_1982-04 text 3: resolved prol. sup. to prolegomeno super
+l2_1990-04 text 2: non nulla > nonnulla
+l2_1990-04 text 3: note that this is a 20th-century composition
+l2_1990-04 text 3: 1914 > mcmxiv
+l2_1990-04 text 4: corrected patifecit to patefecit
+l2_1991-04 text 1: should I write "se ipsam" for "seipsam"? making this change provisionally
+l2_1993-09 text 3: ut quid > utquid
+l2_1994-09 text 3: replaced two instances of romanized Greek "Xp" with "Chr"
+l2_1994-09 text 3: reuuixit > reuixit
+l2_1995-04 text 3: expanded three ordinal numerals to literals
+l2_1996-04 text 1: reformatted IIIIor to quattuor (but check that this is correct in context)
+l2_1996-04 text 4: gladiii > gladii
+l2_1998-09 text 1: reformatted two ordinals and one xxiiiior to literals; expanded abbreviation Andr' (gen.) to Andreae
+l2_1998-09 text 2: expanded Oxon' to oxoniensibus
+l2_1999-09 text 4: corrected abuisiue to abusiue
+l2_2018-04 text 3: ut quid > utquid
+l2_2001-04 text 3: Sploetana > spoletana
+l2_2002-09 text 4: turned a few numerals roman, expanded "annus" and "sanctus" abbreviations; corrected Ricccardis > Riccardis
+l2_2003-09 text 1: expanded etc into et cetera (go back and check other files for this)
+l2_2003-09 text 4: temporbius > temporibus
+l2_2004-09 text 1: removed parenthetical biblical references
+l2_2005-09 text 2: corrected serentitatis to serenitatis
+l2_2006-04 text 1: split up semetipsos
+l2_2006-04 text 1: corrected divinaram to divinarum
+l2_2007-04 text 2: corrected prionde to proinde
+l2_2007-09 text 1: corrected morten to mortem
+l2_2008-09 text 3: split up paulominus
+l2_2009-04: removed various punctuation-related errors, such as A for “ and @ for ”
+l2_2011-09 text 1: added and moved some quotation marks, I hope correctly
+l2_2011-09 text 1: corrected obsconduntur to absconduntur
+l2_2013-09 text 3: corrected mulititudinem to multitudinem
+l2_2014-04 text 1: removed biblical references
+l2_2014-09 text 4: replaced "reipublicae" with "rei publicae"
+l2_2015-05 text 1: relligione > religione
+l2_2016-04 text 3: split up seipsos
+l2_2016-09 text 2: corrected senctute to senectute
+l2_2019-09 text 3: corrected queadmodum to quemadmodum
+l2_2023-09 text 4: corrected decensum to descensum
+
+I've expanded "etc." to "et cetera" passim to yield a tokenization that may be consistently lemmatized. (affected are l1_2005-09.txt l1_2007-04.txt l1_2008-09.txt l1_2010-09.txt l1_2011-04.txt l2_1977-09.txt l2_1990-09.txt l2_2000-09.txt l2_2012-09.txt).
+
+in several exams (e.g. l1_2015-04 text 1, and l1_2014 someplace) I removed in-text numbering so the exam would be easier to divide into individual texts, and so we don't get metadata counted towards text length.
