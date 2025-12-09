@@ -14,7 +14,7 @@ In order to facilitate processing as plaintext, the only markdown convention her
 
 I have corrected a range of typographical errors, and introduced consistency of tokenization in such sequences as _se ipsum_ and _nonnulla_. For the full list of changes, see `changes.txt`.
 
-A notable change from the exam's original character formatting is the restriction of capital initials in the exam passages proper to personal names and sentence-initial words; this change was implemented during OCR proofreading in order to facilitate named entity recognition. Place-names were lowercased on the understanding that the interpretation of place-names requires more translation than that of personal names, so that for the purpose of assessing exam difficulty only personal names should be singled out.
+A notable change from the exam's original character formatting is the restriction of capital initials in the exam passages proper to personal names and sentence-initial words; this change was implemented during OCR proofreading in order to facilitate named entity recognition. Place-names were lowercased on the understanding that the interpretation of place-names requires more translation than that of personal names, so that for the purpose of assessing exam difficulty only personal names should be discounted.
 
 ## Further Development
 
